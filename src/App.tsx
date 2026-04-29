@@ -152,7 +152,7 @@ function HomePage() {
       <section id="trang-chủ" className="relative w-full min-h-[500px] md:aspect-[20/9] flex items-center justify-center md:justify-end overflow-hidden bg-black px-6 md:px-24">
         <div className="absolute inset-0 z-0">
           <img 
-            src="/anh.jpg" 
+           src="/anh.jpg?v=1"
             alt="Film producer" 
             className="w-full h-full object-cover object-center opacity-80"
             referrerPolicy="no-referrer"
